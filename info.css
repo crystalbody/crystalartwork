@@ -1,0 +1,29 @@
+*{
+    background: linear-gradient(45deg, #d3d1de, #e3d9c7); 
+}
+
+.info-title {
+    background: transparent;
+    color: rgb(5, 5, 5);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0; 
+    padding: 0;
+    margin-top: 40px;
+    background: transparent;
+    flex-grow: 1;
+}
+
+.info-title h1{
+    background: transparent;
+    letter-spacing: 0.4rem;
+}
+
+.para{
+    background: transparent;
+    display: inline-block;
+    text-align: left;
+    max-width: 800px;
+    line-height: 28px;
+}
