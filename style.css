@@ -225,6 +225,7 @@ body{
     width: 390px;
     background:white;
     padding: 2%;
+    align-content: center;
 }  
 
 .gallery img{
